@@ -1,6 +1,6 @@
 {
     "triangular": {
-        "exchange": "cryptopia",
+        "exchange": "kraken",
         "keyFile": "keys/cryptopia.key",
         "tickerPairA": "BTC-ETN",
         "tickerPairB": "ETN-USDT",
