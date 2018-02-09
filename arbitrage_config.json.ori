@@ -1,0 +1,28 @@
+{
+    "triangular": {
+        "exchange": "cryptopia",
+        "keyFile": "keys/cryptopia.key",
+        "tickerPairA": "BTC-ETN",
+        "tickerPairB": "ETN-USDT",
+        "tickerPairC": "BTC-USDT",
+        "tickerA": "BTC",
+        "tickerB": "ETN",
+        "tickerC": "USDT"
+    },
+    "exchange": {
+        "exchangeA": {
+            "exchange": "bittrex",
+            "keyFile": "keys/bittrex.key",
+            "tickerPair": "BTC-ETH",
+            "tickerA": "BTC",
+            "tickerB": "ETH"
+        },
+        "exchangeB": {
+            "exchange": "bitstamp",
+            "keyFile": "keys/bitstamp.key",
+            "tickerPair": "ethbtc",
+            "tickerA": "btc",
+            "tickerB": "eth"
+        }
+    }
+}
